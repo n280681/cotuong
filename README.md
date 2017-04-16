@@ -1,2 +1,0 @@
-# cotuong
-Hoc co tuong
