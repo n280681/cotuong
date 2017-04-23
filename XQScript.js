@@ -298,7 +298,7 @@ function getFdbs(m)
 function getQPZB()
 {
 	var q=[];
-	q[4]='\u4E5D\u516B\u4E03\u516D\u4E94\u56DB\u4E09\u4E8C\u4E00';
+	q[4]='\uFF19\uFF18\uFF17\uFF16\uFF15\uFF14\uFF13\uFF12\uFF11';
 	q[5]='\uFF11\uFF12\uFF13\uFF14\uFF15\uFF16\uFF17\uFF18\uFF19';
 	q[6]=q[4].split('').reverse().join('');
 	q[7]=q[5].split('').reverse().join('');
