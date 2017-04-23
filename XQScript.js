@@ -19,7 +19,7 @@ var B='8979695949392919097717866646260600102030405060708012720323436383';
 var REOK=checkRegExp();
 var tQZ='\u8F66\u9A6C\u76F8\u4ED5\u5E05\u4ED5\u76F8\u9A6C\u8F66\u70AE\u70AE\u5175\u5175\u5175\u5175\u5175\u8F66\u9A6C\u8C61\u58EB\u5C06\u58EB\u8C61\u9A6C\u8F66\u70AE\u70AE\u5352\u5352\u5352\u5352\u5352';
 var iQZ='r1r2r3r4r5r4r3r2r1r6r6r7r7r7r7r7b1b2b3b4b5b4b3b2b1b6b6b7b7b7b7b7';
-if (!DhtmlXQimgpath) var DhtmlXQimgpath='';if (!ads_dpxq) var ads_dpxq='';if (!isMXQ) var isMXQ=false;if (!ads_board) var ads_board='www.hoccotuong.net';
+if (!DhtmlXQimgpath) var DhtmlXQimgpath='';if (!ads_dpxq) var ads_dpxq='';if (!isMXQ) var isMXQ=false;if (!ads_board) var ads_board='HOCCOTUONG.NET';
 var isSP=(NoFile)?false:((parent.location.href.search(/\/hldcg\/search(\/?$|\/?\?.*|\/(index|mini)\.asp.*)/gi)!=-1)?true:false);
 var SURL=location.hostname;SURL='http://'+(SURL=='localhost'?SURL:'www.dpxq.com')+'/hldcg/search/';
 var UBB=unconv((NoFile)?self.name:$P(self.name.substr(5)).innerHTML).replace(/[\r\n]*(\[\/DhtmlXQ_\w+\])[\r\n]*/gi,'$1\r\n').replace(/[\r\n]*(\[DhtmlXQ_\w+\])[\r\n]*/gi,'\r\n$1').match(eval('/\\[(DhtmlXQ_\\w+)\\].+'+REOK+'\\[\\/\\1\\]/gi'));
